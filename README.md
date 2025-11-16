@@ -31,10 +31,16 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssokov&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssokov&layout=compact&theme=tokyonight)
-
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ssokov&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssokov&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ## 📫 Contact
 
