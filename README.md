@@ -6,9 +6,11 @@
 
 ---
 
-| Технологии |
+| Tech Stack |
 |---|
 | ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) |
+lds.io/badge/-PostgreSQL-316192?logo=postgresql) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) |
+
 
 
 ---
