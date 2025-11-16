@@ -1,28 +1,40 @@
 name: Update GitHub Stats
 
+# Глобальные права для GITHUB_TOKEN
+permissions:
+  contents: write
+
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  build:
+  update-stats:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
+        with:
+          # persist-credentials: true  # по умолчанию true — сохраняет GITHUB_TOKEN в git remote
+          fetch-depth: 0
 
       - name: Generate GitHub Stats
         run: |
-          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=ssokov&show_icons=true&theme=tokyonight&count_private=true&access_token=${{ secrets.GH_STATS_TOKEN }}"
+          curl -s -o stats.svg "https://github-readme-stats.vercel.app/api?username=ssokov&show_icons=true&theme=tokyonight&count_private=true&access_token=${{ secrets.GH_STATS_TOKEN }}"
+          echo "filesize:" && ls -lh stats.svg
+          head -n 5 stats.svg
 
-      - name: Commit and push stats
+      - name: Commit and push stats (using GITHUB_TOKEN)
+        env:
+          GH_REPO: ${{ github.repository }}
+          GH_REF: ${{ github.ref }}
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git.config user.email "github-actions@github.com" || true
           git add stats.svg
           git commit -m "Update GitHub stats" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+          # пушим через URL с GITHUB_TOKEN
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GH_REPO} HEAD:${GH_REF#refs/heads/}
