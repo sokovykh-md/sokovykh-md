@@ -20,9 +20,9 @@
 
 ## 📂 Projects
 
-- **pr-reviewer-service** — Microservice that automatically assigns reviewers to pull requests (Go, PostgreSQL, Swagger, CI/CD).  
-- **go-pipeline** — Data-processing pipeline with concurrency (VK Education).  
+- **pr-reviewer-service** — Microservice that automatically assigns reviewers to pull requests (Go, PostgreSQL, Swagger, CI/CD).
 - **ludomania** — Telegram inline bot with interactive game logic.  
+- **go-pipeline** — Data-processing pipeline with concurrency (VK Education).  
 - **tg-digest** — Telegram bot generating scheduled digests.  
 - **logs-hub-backend** — Backend for aggregating logs from Telegram bots.  
 - **Pool-Allocator** — Custom memory pool allocator written in C++.
