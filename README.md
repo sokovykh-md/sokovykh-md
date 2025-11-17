@@ -1,5 +1,3 @@
-# Hello, I'm Mikhail Sokovykh
-
 **Golang Developer · ITMO University, 2nd-year student**  
 📍 Saint Petersburg, Russia  
 📬 Telegram: [@Msokovv](https://t.me/Msokovv)  
