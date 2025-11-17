@@ -1,10 +1,9 @@
-### <span style="font-size: 1.6rem; font-weight: 700;">Golang Developer · ITMO University (2nd-year student)</span>
+## **Golang Developer · ITMO University (2nd-year student)**  
+---
 
 📍 Saint Petersburg, Russia  
 📬 Telegram: [@Msokovv](https://t.me/Msokovv)  
 ✉️ Email: sokovykh.work@gmail.com  
-
----
 
 
 
