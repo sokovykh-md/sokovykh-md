@@ -1,7 +1,7 @@
 ## **Golang Developer · ITMO University · 2nd-year Student**
 
 <div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://img.icons8.com/?size=512&id=63306&format=png" width="17" style="position: relative; top: 2px;">
+  <img src="https://img.icons8.com/?size=512&id=63306&format=png" width="17" style="position: relative; top: 5px;">
   <a href="https://t.me/Msokovv">@Msokovv</a>
 </div>
 <div>✉️ sokovykh.work@gmail.com</div>
