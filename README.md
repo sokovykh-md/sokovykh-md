@@ -1,7 +1,7 @@
 ## **Golang Developer · ITMO University · 2nd-year Student**
 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="18" style="vertical-align: -3px;"/> [@Msokovv](https://t.me/Msokovv)
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="18" style="vertical-align: -3px;"/> sokovykh.work@gmail.com
+<img src="https://img.icons8.com/?size=512&id=63306&format=png" width="17" style="vertical-align: middle;"/> [@Msokovv](https://t.me/Msokovv)  
+✉️ sokovykh.work@gmail.com
 
 
 
