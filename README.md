@@ -1,8 +1,11 @@
 ## **Golang Developer · ITMO University · 2nd-year Student**
 
-<img src="https://img.icons8.com/?size=512&id=63306&format=png" width="17" style="vertical-align: text-bottom;">
-<a href="https://t.me/Msokovv">@Msokovv</a>
-✉️ sokovykh.work@gmail.com
+<div style="display: flex; align-items: center; gap: 5px;">
+  <img src="https://img.icons8.com/?size=512&id=63306&format=png" width="17">
+  <a href="https://t.me/Msokovv">@Msokovv</a>
+</div>
+<div>✉️ sokovykh.work@gmail.com</div>
+
 
 
 
