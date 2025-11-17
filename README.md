@@ -1,9 +1,9 @@
 ## **Golang Developer · ITMO University · 2nd-year Student**
 
-| 📍 | Saint Petersburg, Russia |
-| --- | --- |
-| <img src="https://img.icons8.com/?size=512&id=63306&format=png" width="20"/> | [@Msokovv](https://t.me/Msokovv) |
-| ✉️ | sokovykh.work@gmail.com |
+<img src="https://img.icons8.com/?size=512&id=85488&format=png" width="18" style="vertical-align: middle;"/> Saint Petersburg, Russia  
+<img src="https://img.icons8.com/?size=512&id=63306&format=png" width="17" style="position: relative; top: 3px;"/> [@Msokovv](https://t.me/Msokovv)  
+✉️ sokovykh.work@gmail.com
+
 
 
 ---
