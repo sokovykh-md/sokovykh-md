@@ -1,10 +1,11 @@
-##  **Golang Developer · ITMO University · 2nd-year Student**
+#  **GOLANG DEVELOPER · ITMO UNIVERSITY (2nd-YEAR)**
 
 📍 Saint Petersburg, Russia  
 📬 Telegram: [@Msokovv](https://t.me/Msokovv)  
-✉️ Email: sokovykh.work@gmail.com
+✉️ Email: sokovykh.work@gmail.com  
 
 ---
+
 
 
 
