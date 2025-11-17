@@ -1,4 +1,4 @@
-## **Golang Developer · ITMO University · 2nd-year Student**
+## **Golang Developer  ITMO University  2nd-year Student**
 
 <div style="display: flex; align-items: center; gap: 5px;">
   <img src="https://img.icons8.com/?size=512&id=63306&format=png" width="17" style="transform: translateY(20px);">
