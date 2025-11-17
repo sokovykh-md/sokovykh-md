@@ -1,4 +1,4 @@
-## **Golang Developer  ITMO University  2nd-year Student**
+## **Golang Developer · ITMO University · 2nd-year Student**
 
 <div style="display: flex; align-items: center; gap: 5px;">
   <img src="https://img.icons8.com/?size=512&id=63306&format=png" width="17" style="transform: translateY(20px);">
@@ -28,12 +28,18 @@
 
 ## Projects
 
-- **pr-reviewer-service** — Microservice that automatically assigns reviewers to pull requests (Go, PostgreSQL, Swagger, CI/CD).
-- **ludomania** — Telegram inline bot with interactive game logic.  
-- **go-pipeline** — Data-processing pipeline with concurrency (VK Education).  
-- **tg-digest** — Telegram bot generating scheduled digests.  
-- **logs-hub-backend** — Backend for aggregating logs from Telegram bots.  
-- **Pool-Allocator** — Custom memory pool allocator written in C++.
+- **pr-reviewer-service** — Microservice that automatically assigns reviewers to pull requests  
+  _Technologies:_ Go, PostgreSQL, Swagger, CI
+- **ludomania** — Telegram inline bot with interactive game logic  
+  _Technologies:_ Telegram Bot API, PostgreSQL, [vmkteam stack](https://github.com/vmkteam)
+- **go-pipeline** — Data-processing pipeline with concurrency (VK Education)  
+  _Technologies:_ Go
+- **tg-digest** — Telegram bot generating scheduled digests  
+  _Technologies:_ Telegram Bot API, PostgreSQL, Scheduler, [vmkteam stack](https://github.com/vmkteam)
+- **logs-hub-backend** — Backend for aggregating logs from Telegram bots  
+  _Technologies:_ Go, PostgreSQL, [vmkteam stack](https://github.com/vmkteam)
+- **Pool-Allocator** — Custom memory pool allocator  
+  _Technologies:_ C++
 
 ---
 
