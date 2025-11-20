@@ -57,11 +57,18 @@
 </table>
 
 
-## LeetCode Stats
+##  LeetCode Stats
 
-<div align="center">
-  <a href="https://leetcode.com/ssokov/" target="_blank" rel="noopener">
-    <img src="https://leetcard.jacoblin.cool/ssokov?theme=unicorn&font=Kural&ext=heatmap" alt="LeetCode — ssokov" width="520" />
+<div align="center" style="
+  padding: 15px;
+  border-radius: 16px;
+  border: 1px solid #2d2d2d;
+  width: fit-content;
+  margin: auto;
+  background: #0f0f0f;
+">
+  <a href="https://leetcode.com/ssokov/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/ssokov?theme=dark&font=Karla&ext=heatmap" width="520" alt="LeetCode Stats"/>
   </a>
 </div>
 
