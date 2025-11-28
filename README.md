@@ -54,10 +54,17 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssokov&layout=compact&theme=tokyonight" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top:12px;">
+      <!-- GitHub Streak Stats -->
+      <a href="https://github.com/ssokov" target="_blank">
+        <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ssokov&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
 </table>
 
-
-##  LeetCode Stats
+## LeetCode Stats
 
 <div align="center" style="
   padding: 15px;
