@@ -1,11 +1,16 @@
 ## **Golang Developer · ITMO University · 2nd-year Student**
 
-<div style="display: grid; gap: 5px;">
-  <a href="https://t.me/Msokovv" target="_blank">Telegram: @Msokovv</a>
-  <a href="mailto:sokovykh.work@gmail.com">Email: sokovykh.work@gmail.com</a>
-  <a href="https://drive.google.com/file/d/1V3s-lcZGmLDuhViyOA9K-XDdtDdCQ68K/view?usp=sharing" target="_blank">Резюме: Google Docs</a>
+<div style="display: flex; flex-direction: column; gap: 5px;">
+  <div>
+    <a href="https://t.me/Msokovv" target="_blank">Telegram: @Msokovv</a>
+  </div>
+  <div>
+    <a href="mailto:sokovykh.work@gmail.com">Email: sokovykh.work@gmail.com</a>
+  </div>
+  <div>
+    <a href="https://drive.google.com/file/d/1V3s-lcZGmLDuhViyOA9K-XDdtDdCQ68K/view?usp=sharing" target="_blank">Резюме: Google Docs</a>
+  </div>
 </div>
-
 
 
 
