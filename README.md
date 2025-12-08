@@ -50,24 +50,24 @@
 ---
 
 ## GitHub Stats
-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-eight.vercel.app/api?username=ssokov&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ssokov&show_icons=true&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=ssokov&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssokov&layout=compact&theme=tokyonight" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding-top:12px;">
       <a href="https://github.com/ssokov" target="_blank">
-        <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ssokov&theme=tokyonight&hide_border=true" />
+        <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ssokov&theme=tokyonight&hide_border=true" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
