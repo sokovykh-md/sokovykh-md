@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: column; gap: 5px;">
   <div>
-    Резюме: <a href="https://drive.google.com/file/d/1PCS7E4YhFAE-5v1jcv7xYL6OqFXKzSeA/view?usp=sharing" target="_blank">Google Docs</a>
+    Резюме: <a href="https://drive.google.com/file/d/1olR4yVtWTNAoJ7ZbxQjLKoxnB__Rk1Uc/view?usp=sharing" target="_blank">Google Docs</a>
   </div>
   <div>
     Почта: <a href="mailto:sokovykh.work@gmail.com">sokovykh.work@gmail.com</a>
