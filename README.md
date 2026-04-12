@@ -33,7 +33,8 @@
 ---
 
 ## Projects
-
+- **[pgcompare](https://github.com/pg-tools/pgcompare)** — CLI tool for comparing PostgreSQL query performance before and after optimization                                                                            
+    _Tech Stack:_ Go, PostgreSQL, Docker, HTML/JS      
 - **pr-reviewer-service** — Microservice that automatically assigns reviewers to pull requests  
   _Tech Stack:_ Go, Echo, PostgreSQL, CI
 - **ludomania** — Telegram inline bot with interactive game logic  
@@ -44,8 +45,6 @@
    _Tech Stack:_ Telegram Bot API, PostgreSQL, [vmkteam stack](https://github.com/vmkteam)
 - **logs-hub-backend** — Backend for aggregating logs from Telegram bots  
    _Tech Stack:_ Go, PostgreSQL, CI/CD, [vmkteam stack](https://github.com/vmkteam)
-- **Pool-Allocator** — Custom memory pool allocator  
-   _Tech Stack:_ C++
 
 
 
