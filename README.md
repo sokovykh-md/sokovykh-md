@@ -33,18 +33,20 @@
 ---
 
 ## Projects
-- **[pgcompare](https://github.com/pg-tools/pgcompare)** — CLI tool for comparing PostgreSQL query performance before and after optimization                                                                            
-    _Tech Stack:_ Go, PostgreSQL, Docker, HTML/JS      
-- **pr-reviewer-service** — Microservice that automatically assigns reviewers to pull requests  
-  _Tech Stack:_ Go, Echo, PostgreSQL, CI
-- **ludomania** — Telegram inline bot with interactive game logic  
-   _Tech Stack:_ Telegram Bot API, PostgreSQL, [vmkteam stack](https://github.com/vmkteam)
-- **go-pipeline** — Data-processing pipeline with concurrency (VK Education)  
-   _Tech Stack:_ Go
-- **tg-digest** — Telegram bot generating scheduled digests  
-   _Tech Stack:_ Telegram Bot API, PostgreSQL, [vmkteam stack](https://github.com/vmkteam)
-- **logs-hub-backend** — Backend for aggregating logs from Telegram bots  
-   _Tech Stack:_ Go, PostgreSQL, CI/CD, [vmkteam stack](https://github.com/vmkteam)
+- **[pgcompare](https://github.com/pg-tools/pgcompare)** — CLI tool for comparing PostgreSQL query performance before and after optimization with HTML report generation                                                
+    _Tech Stack:_ Go, PostgreSQL, Docker, HTML/JS                                                                                                                                                                         
+                                                                                                                                                                                                                          
+- **[ludomania](https://github.com/kroexov/ludomania)** — Telegram inline bot with interactive gambling game logic for ITMO community                                                                                   
+    _Tech Stack:_ Go, Telegram Bot API, PostgreSQL, Docker                                                                                                                                                                
+                                                                                                                                                                                                                          
+- **[go-concurrency-patterns](https://github.com/sokovykh-md/go-concurrency-patterns)** — Collection of idiomatic Go concurrency patterns: fan-in/fan-out, worker pool, semaphore, rate limiting, and more              
+    _Tech Stack:_ Go, Generics                                                                                                                                                                                            
+                                                                                                                                                                                                                          
+- **[containers](https://github.com/sokovykh-md/containers)** — Generic data structures for Go with iterator support (doubly-linked list, heap)                                                                         
+    _Tech Stack:_ Go, Generics
+                                                                                                                                                                                                                          
+- **[go-pipeline](https://github.com/sokovykh-md/go-pipeline)** — Concurrent data processing pipeline with Unix pipe semantics (VK Education)                                                                           
+    _Tech Stack:_ Go
 
 
 
