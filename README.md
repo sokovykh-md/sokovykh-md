@@ -33,7 +33,7 @@
 ---
 
 ## Projects
-- **[pgcompare](https://github.com/pg-tools/pgcompare)** — CLI tool for comparing PostgreSQL query performance before and after optimization with HTML report generation                                                
+  - **[pgcompare](https://github.com/pg-tools/pgcompare)** — CLI that benchmarks PostgreSQL queries before and after optimization, then generates an HTML report.                                              
     _Tech Stack:_ Go, PostgreSQL, Docker, HTML/JS                                                                                                                                                                         
                                                                                                                                                                                                                           
 - **[ludomania](https://github.com/kroexov/ludomania)** — Telegram inline bot with interactive gambling game logic for ITMO community                                                                                   
