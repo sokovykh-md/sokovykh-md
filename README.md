@@ -2,13 +2,13 @@
 
 <div style="display: flex; flex-direction: column; gap: 5px;">
   <div>
-    Резюме(deprecated): <a href="https://drive.google.com/file/d/1ULIspj1jng0w4pBvqHSLruNGh3VtFl4Q/view?usp=sharing" target="_blank">Google Docs</a>
+    Resume [RU] (deprecated): <a href="https://drive.google.com/file/d/1ULIspj1jng0w4pBvqHSLruNGh3VtFl4Q/view?usp=sharing" target="_blank">Google Docs</a>
   </div>
   <div>
-    Почта: <a href="mailto:sokovykh.work@gmail.com">sokovykh.work@gmail.com</a>
+    Mail: <a href="mailto:sokovykh.work@gmail.com">sokovykh.work@gmail.com</a>
   </div>
   <div>
-    Телеграм: <a href="https://t.me/sokovykh_md" target="_blank">@sokovykh_md</a>
+    Telegram: <a href="https://t.me/sokovykh_md" target="_blank">@sokovykh_md</a>
   </div>
 </div>
 
