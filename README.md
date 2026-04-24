@@ -2,10 +2,10 @@
 
 <div style="display: flex; flex-direction: column; gap: 5px;">
   <div>
-    Resume [RU] (deprecated): <a href="https://drive.google.com/file/d/1ULIspj1jng0w4pBvqHSLruNGh3VtFl4Q/view?usp=sharing" target="_blank">Google Docs</a>
+    Resume [RU version] (deprecated): <a href="https://drive.google.com/file/d/1ULIspj1jng0w4pBvqHSLruNGh3VtFl4Q/view?usp=sharing" target="_blank">Google Docs</a>
   </div>
   <div>
-    Mail: <a href="mailto:sokovykh.work@gmail.com">sokovykh.work@gmail.com</a>
+    Email: <a href="mailto:sokovykh.work@gmail.com">sokovykh.work@gmail.com</a>
   </div>
   <div>
     Telegram: <a href="https://t.me/sokovykh_md" target="_blank">@sokovykh_md</a>
