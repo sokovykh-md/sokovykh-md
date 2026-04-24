@@ -8,7 +8,7 @@
     Email: <a href="mailto:sokovykh.work@gmail.com">sokovykh.work@gmail.com</a>
   </div>
   <div>
-    Telegram: <a href="https://t.me/sokovmd target="_blank">@sokovykh_md</a>
+    Telegram: <a href="https://t.me/sokovmd target="_blank">@sokovmd </a>
   </div>
 </div>
 
